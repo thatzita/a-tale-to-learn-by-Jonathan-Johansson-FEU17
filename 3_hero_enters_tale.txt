@@ -1,4 +1,4 @@
 ﻿-Vad har du för skills? frågade Måns Hansson, chef på zoocom.
-- Jag är en riktig mästare på git. Jag kan pull, merge fetch och alla möjliga git kommandon. Däremot är jag sjukt kass på att laga mat. 
-- Hmm en sån person skulle vi kunna behöva i vårar företag.Hur går det med själva kodandet då?
+- Jag är en riktig mästare på git. Jag kan pull, merge fetch och alla möjliga git kommandon. Däremot är jag sjukt kass på att laga mat och sätta HS på counter-strike. 
+- Hmm en sån person skulle vi kunna behöva i vårat företag. Hur går det med själva kodandet då?
 - Jag heter ju MR Git så det är ju min specialitet. Kodandet är jag tyvärr inte så bra på. Jag kan ju mera och pusha och pull och allt annat häftigt dock.
