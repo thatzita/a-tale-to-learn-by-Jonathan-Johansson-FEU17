@@ -1,1 +1,3 @@
-Mr Git behöver ett jobb. Han är inte så bra på själva kodningen men på git är  han en riktig mästare. Han begavs sig på arbetsintervju hos zocom. Där träffade han Måns Hansson.
+﻿Mr Git är fett go och behöver ett jobb.
+Han är inte så bra på själva kodningen men på git är  han en riktig mästare.
+Han begavs sig på arbetsintervju hos zocom. Där träffade han den ståtliga Måns Hansson.
